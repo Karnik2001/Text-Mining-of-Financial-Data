@@ -43,3 +43,7 @@ Sentiment analysis with the Bing lexicon
 ## License
 
 This project is open-source and available for modification and use under the MIT License.
+
+## Citation
+
+https://www.geeksforgeeks.org/nlp/text-mining-in-r-with-tidytext/
