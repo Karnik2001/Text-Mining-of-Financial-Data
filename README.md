@@ -1,4 +1,4 @@
-# Text-Mining-of-Financial-Data
+# Text Mining of Financial Data
 
 ## Overview
 
